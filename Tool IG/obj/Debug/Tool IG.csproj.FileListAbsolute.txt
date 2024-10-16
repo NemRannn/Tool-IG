@@ -1,0 +1,18 @@
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\Tool IG.exe.config
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\Tool IG.exe
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\Tool IG.pdb
+D:\CS001\Test_GPT\Tool IG\Tool IG\obj\Debug\Tool IG.csproj.AssemblyReference.cache
+D:\CS001\Test_GPT\Tool IG\Tool IG\obj\Debug\Tool_IG.Form1.resources
+D:\CS001\Test_GPT\Tool IG\Tool IG\obj\Debug\Tool_IG.Properties.Resources.resources
+D:\CS001\Test_GPT\Tool IG\Tool IG\obj\Debug\Tool IG.csproj.GenerateResource.cache
+D:\CS001\Test_GPT\Tool IG\Tool IG\obj\Debug\Tool IG.csproj.CoreCompileInputs.cache
+D:\CS001\Test_GPT\Tool IG\Tool IG\obj\Debug\Tool IG.exe
+D:\CS001\Test_GPT\Tool IG\Tool IG\obj\Debug\Tool IG.pdb
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\selenium-manager\linux\selenium-manager
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\selenium-manager\macos\selenium-manager
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\Newtonsoft.Json.dll
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\WebDriver.dll
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\Newtonsoft.Json.xml
+D:\CS001\Test_GPT\Tool IG\Tool IG\bin\Debug\WebDriver.xml
+D:\CS001\Test_GPT\Tool IG\Tool IG\obj\Debug\Tool IG.csproj.CopyComplete
